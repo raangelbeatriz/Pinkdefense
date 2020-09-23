@@ -1,6 +1,6 @@
 # Pinkdefense2.0
  
-![PINK DEFENSE DEMO](demo/pinkdef.gif)
+![PINK DEFENSE DEMO](demo/PinkDef.gif)
 
 # My goal
 
